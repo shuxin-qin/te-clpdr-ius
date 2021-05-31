@@ -1,6 +1,7 @@
 # te-clpdr-ius
 
-Official codes for paper "Towards End-to-end Car License Plate Location and Recognition in Unconstrained Scenarios"  https://arxiv.org/abs/2008.10916
+Official codes for paper "Towards End-to-end Car License Plate Location and Recognition in Unconstrained Scenarios"  https://arxiv.org/abs/2008.10916. Now, this paper is accept by Neural Computing and Applications.
+
 
 Full codes, models and demo will come soon...
 
